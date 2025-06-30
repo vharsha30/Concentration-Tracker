@@ -1,0 +1,4 @@
+This Python-based tool uses a webcam and MediaPipe Face Mesh to monitor a user's head movement in real time. If the user tilts their head (indicating possible distraction), the system:
+Detects and displays the distraction visually
+Speaks out a voice alert: “Please concentrate!”
+Counts how many times the person was distracted
